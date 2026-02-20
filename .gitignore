@@ -1,0 +1,15 @@
+# data (raw datasets)
+data/
+# caches / artifacts
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+*.pyc
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
