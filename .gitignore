@@ -1,5 +1,6 @@
 # data (raw datasets)
-data/
+data/*
+!data/.gitkeep
 # caches / artifacts
 __pycache__/
 .ipynb_checkpoints/
